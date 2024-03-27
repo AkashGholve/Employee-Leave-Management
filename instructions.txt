@@ -1,0 +1,5 @@
+Kindly check database named: 'employees' is created on your system after running the project,
+
+and on browser, put:
+
+localhost:8080/leave

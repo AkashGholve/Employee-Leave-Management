@@ -1,0 +1,10 @@
+INSERT INTO employees.holidays_list (holiday_date) VALUES
+('2024-01-26'), -- Republic Day
+('2024-08-15'), -- Independence Day
+('2024-10-02'), -- Gandhi Jayanti
+('2024-01-01'), -- New Year's Day
+('2024-04-10'), -- Good Friday
+('2024-05-01'), -- Labor Day (May Day)
+('2024-08-12'), -- Bakrid / Eid al-Adha
+('2024-11-04'), -- Diwali (Deepavali)
+('2024-12-25'); -- Christmas Day

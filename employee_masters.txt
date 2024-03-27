@@ -1,0 +1,12 @@
+INSERT INTO employees.employee_masters (id, name, department) VALUES
+(1, 'Akash Gholve', 'Information Technology'),
+(2, 'Shubham Nigade', 'Marketing'),
+(3, 'Abhijeet Jagtap', 'Finance'),
+(4, 'Vaishnavi Gavande', 'Human Resources'),
+(5, 'Mayur Harishchandre', 'Finance'),
+(6, 'Abhishek Raktate', 'Marketing'),
+(7, 'Apeksha Shinde', 'Information technology'),
+(8,'Rupesh Gurude','Finance'),
+(9,'Kamlesh Deokar','Information Technology'),
+(10, 'Rohan Auti', 'Information Technology'),
+(11, 'Bhushan Chaudhary', 'Finance');
